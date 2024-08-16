@@ -1,0 +1,9 @@
+Functions
+
+Dart function is a set of codes that together perform a specific task. A function can be defined by providing the name of the function with the appropriate parameter and return type. A function contains a set of statements which are called funation body.
+
+return_type fun_name (parameter_list) {
+
+    // Statements(s)
+    return value
+}
